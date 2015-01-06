@@ -45,6 +45,7 @@
 * Systèmes d'exploitation : Windows, UNIX, Android et GNU/Linux (Ubuntu, Debian, Redhat,...), MAC OX X.
 * Réseau/VoIP : SIP, IPV6, BGP, DNS, HTTP, SSL, SNMP.
 * Logiciels : CiscoIOS, Git, CVS, SVN, Bugzilla, MySQL, Apache, JIRA, Trac, Quagga, Nagios, Centreon.
+* Certifications: Acme Packet NetNet SBC (Oracle).
 
 ------
 
