@@ -59,7 +59,7 @@
 
 ##### Responsable systèmes et réseaux de la société
 * Installation des nouveux systèmes, supervision et maintenance du réseau interne de la société (35 collaborateurs).
-* Création et mise en oeuvre de solution de VPN avec les infrastructures des clients et des collaborateurs.
+* Création et mise en oeuvre de solution de VPN (site à site et utilisateurs).
 
 
 #### 8x8 Inc. - Sophia-Antipolis, France (1998 - 2011)
