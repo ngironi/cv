@@ -4,7 +4,7 @@
 
 ---
 
-* Anglais courant [CV en anglais](https://github.com/ngironi/resume).
+* Anglais courant ([CV en anglais](https://github.com/ngironi/resume)).
 * 38 ans, marié, permis B.
 * [nicolas@gironi.org](mailto:nicolas@gironi.org)
 * +33 (0)6 70 85 49 32
