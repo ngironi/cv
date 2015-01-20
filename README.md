@@ -12,6 +12,10 @@
 
 ------
 
+[Télécharger mon CV en PDF] (http://goo.gl/D2G4lq)
+
+------
+
 ### PROFILE 
 > Spécialisé en architecture réseaux et administration systèmes au sein d'équipes de développement et opérationnelles, j'ai participé pendant 15 ans à la conception et la mise en oeuvre de solutions de téléphonie IP pour les entreprises et les particuliers.
 
