@@ -4,7 +4,7 @@
 
 ---
 
-* Anglais courant ([CV en anglais](https://github.com/ngironi/resume)).
+* Anglais courant ([mon CV en anglais](https://github.com/ngironi/resume)).
 * 38 ans, marié, permis B.
 * [nicolas@gironi.org](mailto:nicolas@gironi.org)
 * +33 (0)6 70 85 49 32
@@ -12,12 +12,12 @@
 
 ------
 
-[Télécharger mon CV en PDF] (http://goo.gl/D2G4lq)
+[Télécharger ce CV en PDF] (http://goo.gl/D2G4lq)
 
 ------
 
 ### PROFILE 
-> Spécialisé en architecture réseaux et administration systèmes au sein d'équipes de développement et opérationnelles, j'ai participé pendant 15 ans à la conception et la mise en oeuvre de solutions de téléphonie IP pour les entreprises et les particuliers.
+> Spécialisé en architecture réseaux et administration systèmes au sein d'équipes de développement et opérationnelles, j'ai participé pendant 15 ans à la conception et déploiement de solutions de téléphonie IP pour les entreprises et les particuliers.
 
 ------
 
@@ -25,8 +25,8 @@
 
 #### Administration systèmes
 * Installation, paramétrage, maintien et sécurisation des systèmes d'information.
-* Mise en place de procédures automatisées de sauvegarde et de restauration.
-* Conception de scripts d'industrialisation, d'automatisation et de monitoring.
+* Automatisation des procédures de sauvegarde et de restauration.
+* Ecriture de scripts d'industrialisation, d'automatisation et de monitoring.
 * Déploiement et configuration de serveurs de sources. 
 * Gestion du matériel : supervision, conseil et support.
 
@@ -39,16 +39,15 @@
 
 #### Ingéniérie qualité et reliabilité 
 * Gestion de production de services de VoIP.
-* Conception de scénarios et processus qualité.
+* Création de scénarios et processus qualité.
 * Mise en place d'environnements de tests.
 * Planification et mise en oeuvre des campagnes de test. 
 * Investigation, recettage et reporting.
 
 #### Environements, logiciels et protocoles 
 * Langages : Java, C, HTML, PHP, JavaScript, Bash, …
-* Systèmes d'exploitation : Windows, UNIX, Android et GNU/Linux (Ubuntu, Debian, Redhat,...), MAC OX X.
 * Réseau/VoIP : SIP, IPV6, BGP, DNS, HTTP, SSL, SNMP.
-* Logiciels : CiscoIOS, Git, CVS, SVN, Bugzilla, MySQL, Apache, JIRA, Trac, Quagga, Nagios, Centreon.
+* Logiciels : Git, CVS, SVN, Bugzilla, MySQL, Apache, JIRA, Trac, Quagga, Nagios, Centreon.
 * Certifications: Acme Packet NetNet SBC (Oracle).
 
 ------
@@ -56,14 +55,14 @@
 ### EXPERIENCE 
 #### Centile SA. - Sophia-Antipolis, France (2011 - ce jour)
 ##### Responsable delivery
-* Création des process de delivery
+* Création des process de delivery.
 * Intégration, conception, conseil et installation de plateformes de téléphonie IP chez des opérateurs téléphoniques.
 * Recettage de l’installation et transfert des compétences à l’équipe support.
-* Mise en oeuvre de logiciels de supervision des plateformes clientes. 
+* Déploiement de logiciels de supervision des plateformes clientes. 
 
 ##### Responsable systèmes et réseaux de la société
 * Installation des nouveux systèmes, supervision et maintenance du réseau interne de la société (35 collaborateurs).
-* Création et mise en oeuvre de solution de VPN (site à site et utilisateurs).
+* Déploiement de solution de VPN (site à site et utilisateurs).
 
 
 #### 8x8 Inc. - Sophia-Antipolis, France (1998 - 2011)
