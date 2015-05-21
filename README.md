@@ -16,7 +16,7 @@
 
 ------
 
-### PROFILE 
+### PROFIL
 > Spécialisé en architecture réseaux et administration systèmes au sein d'équipes de développement et opérationnelles, j'ai participé pendant 15 ans à la conception et déploiement de solutions de téléphonie IP pour les entreprises et les particuliers.
 
 ------
