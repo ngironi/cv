@@ -53,7 +53,9 @@
 ------
 
 ### EXPERIENCE 
-#### Centile SA. - Sophia-Antipolis, France (2011 - ce jour)
+#### CODEPI - Paris, France (2016 - ce jour)
+##### Responsable Infrastructure VoIP
+#### Centile SA. - Sophia-Antipolis, France (2011 - dec 2015)
 ##### Responsable delivery
 * Création des process de delivery.
 * Intégration, conception, conseil et installation de plateformes de téléphonie IP chez des opérateurs téléphoniques.
